@@ -10,4 +10,4 @@ Here is a [video demo](https://www.youtube.com/watch?v=lA5K1tV0JIc) of the game 
 
 * HTML & CSS - Front End Layout and Styling
 * JavaScript - Game logic
-* Rails 6.0.1 - High Score tracking
+* Ruby on Rails 6.0.1 - High Score tracking
